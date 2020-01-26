@@ -9,12 +9,7 @@
   
      
       <plugin>
-				<artifactId>maven-compiler-plugin</artifactId>
-				<version>3.1</version>
-				<configuration>
-					<source>1.7</source>
-					<target>1.7</target>
-					<plugin>
+	
 				<artifactId>maven-compiler-plugin</artifactId>
 				<version>3.1</version>
 				<configuration>
@@ -24,8 +19,7 @@
 					<executable>C:\Program Files\Java\jdk-13.0.1\bin\javac</executable>
 				</configuration>
 			</plugin>
-				</configuration>
-			</plugin>
+				
  
 </plugins>
 				
